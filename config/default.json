@@ -1,0 +1,5 @@
+{
+  "baseAPIURL": "/mern/api",
+  "mongoURI": "mongodb+srv://akshat123:akshat123@cluster0-wmwya.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtToken": "mysecret"
+}
